@@ -1,6 +1,6 @@
 # Passport-NYUADSG
 
-[Passport](https://github.com/jaredhanson/passport) strategy for authenticating with [NYUADSG](http://passport.nyuadsg.ompo.us) using the OAuth 2.0 API.
+Node.js [Passport](https://github.com/jaredhanson/passport) strategy for authenticating with [NYUADSG](http://passport.sg.nyuad.org) using the OAuth 2.0 API.
 
 ## Installation
 

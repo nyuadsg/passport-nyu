@@ -1,6 +1,6 @@
 {
 	"name": "passport-nyu",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "NYUADSG authentication strategy for Passport.",
 	"author": { "name": "Morgante Pell", "email": "me@morgante.net", "url": "http://morgante.net" },
 	"repository": {
